@@ -1,0 +1,69 @@
+[
+  {
+    "username": "ahmad",
+    "password": "123456",
+    "role": "Utilisateur",
+    "ref" : "41200001",
+    "Email" : "ahmad@gmail.com",
+    "pharmacie" : "pharmacie hamdi amel",
+    "type": "Utilisateur",
+    "num": "23555555",
+    "statut": "Actif"
+  },
+
+  {
+    "username": "ameni",
+    "password": "admin123",
+    "role": "admin",
+    "ref" : "41200001",
+    "Email" : "ameni@gmail.com",
+    "pharmacie" : "pharmacie hamdi amel",
+    "type": "Utilisateur",
+    "num": "23555555",
+    "statut": "Actif"
+  },
+  {
+    "username": "Crm",
+    "password": "123456",
+    "role": "admin",
+    "ref" : "41200001",
+    "Email" : "admin@gmail.com",
+    "pharmacie" : "pharmacie hamdi amel",
+    "type": "Utilisateur",
+    "num": "23555555",
+    "statut": "Actif"
+  },
+  {
+    "username": "test",
+    "password": "test123",
+    "role": "Utilisateur",
+    "ref" : "41200001",
+    "Email" : "test@gmail.com",
+    "pharmacie" : "pharmacie hamdi amel",
+    "type": "Utilisateur",
+    "num": "23555555",
+    "statut": "InActif"
+  },
+  {
+    "username": "ph med ali",
+    "password": "abid123",
+    "role": "Utilisateur",
+    "ref" : "41200001",
+    "Email" : "test@gmail.com",
+    "pharmacie" : "pharmacie hamdi amel",
+    "type": "Utilisateur",
+    "num": "23555555",
+    "statut": "InActif"
+  },
+  {
+    "username": "ameni",
+    "password": "ameni",
+    "role": "Utilisateur",
+    "ref" : "41200001",
+    "Email" : "test@gmail.com",
+    "pharmacie" : "pharmacie hamdi amel",
+    "type": "Utilisateur",
+    "num": "23555555",
+    "statut": "InActif"
+  }
+  ]

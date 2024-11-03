@@ -1,0 +1,57 @@
+[
+
+  {
+
+    "Designation": "TRIPLEX MAUX DE GORGE EUCALYPTUS",
+    "Prix":10.00,
+    "SansPromo": "13+1",
+    "Promo": "6+8",
+    "categorie": "Vente Flash",
+    "produit": "images/pro1.png"},
+  {
+
+    "Designation": "URIAGE BARIESUN SPF50+ CREME 50ML",
+    "SansPromo": "5+1",
+    "Promo": "5+1",
+    "Prix": 122.00,
+    "categorie": "Nouveautés",
+    "produit": "images/pro2.png"},
+
+  {
+
+    "Designation": "DUCRAY KERACNYL GEL MOUSSANT VISAGE/CORPS P/G 400ML",
+    "SansPromo": "5+1",
+    "Prix": 55,
+    "Promo": "68+1",
+    "categorie": "En répartition",
+    "produit":  "images/pro3.png"}
+
+
+  ,
+
+  {
+
+    "Designation": "HERBEX MENOREX GELULES B/30",
+    "SansPromo": "5+1",
+    "Promo": "9+1",
+    "Prix": 122.00,
+    "categorie": "Nouveautés",
+    "produit": "images/pro4.png"},
+
+  {
+
+    "Designation": "VITA CITRAL BAUME A LEVRES SOIN TR 15ML",
+    "SansPromo": "5+1",
+    "Prix": 55,
+    "Promo": "68+1",
+    "categorie": "En répartition",
+    "produit":  "images/pro5.png"},
+  {
+
+    "Designation": "TRIPLEX MAUX DE GORGE JOUR ET NUIT",
+    "Prix":10.00,
+    "SansPromo": "13+1",
+    "Promo": "9+8",
+    "categorie": "Vente Flash",
+    "produit": "images/pro6.png"}
+]
